@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "vue": "^2.6.10",
-    "vue-router": "^3.0.1",
+    "vue-router": "^3.6.5",
     "webextension-polyfill": "^0.3.1"
   },
   "devDependencies": {
